@@ -1,1 +1,1 @@
-# Quidology Documentation Repository
+# Quidology
