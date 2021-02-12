@@ -2,9 +2,9 @@
 
 ![Rough draft of the GUI]()
 
-QuizController class:
+## QuizController class:
 
-Types of Questions:
+### Types of Questions:
 
 - Matching: maybe with cards?
     - 4 real questions match right answer with question?
@@ -19,9 +19,9 @@ Types of Questions:
     - Question format: Write question + ": "+answer
         - True or false radio button
 
-General Logic:
+### General Logic:
 
-1. Use Google Forms for "inspiration"
+1. Similar to online form (vertical layout)
 2. Assign type of question id's
 3. Then, random num generator to pick question type
 4. Select all ids for valid questions of that question type
