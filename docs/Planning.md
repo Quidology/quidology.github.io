@@ -1,4 +1,4 @@
-# Planning Stage
+# Planning
 
 ![Rough draft of the GUI](https://quidology.github.io/assets/img/rough_sketch_gui.jpg)
 
