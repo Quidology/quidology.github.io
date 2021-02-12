@@ -28,8 +28,8 @@ CSS/FXML can seperate layout from logic | Maturity, is not that developed, less 
 ### SQLite
 
 | Pros: | Cons: |
-| Affordable | Lack of documentation |
-| Has all necessary functions | |
+| Affordable | Restricted to 2GB for database size |
+| Lightweight | |
 | Works without internet and well for small datasets like the quiz quesions |  |
 
 ### MySQL
