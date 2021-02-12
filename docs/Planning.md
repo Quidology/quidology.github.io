@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Planning
-nav_order: 9
+nav_order: 5
 ---
 
 # Planning
