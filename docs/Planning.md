@@ -8,6 +8,38 @@ nav_order: 5
 
 ![Rough draft of the GUI](https://quidology.github.io/assets/img/rough_sketch_gui.jpg)
 
+## Options Explored
+
+### Java with JavaFX:
+
+| Pros: | Cons: |
+| --- |---|
+Java Desktop applications works "out-of-the-box" on many platforms | Requires a lot more storage than something over the internet
+Scene Builder is convinient to build UI | Performance
+CSS/FXML can seperate layout from logic | Maturity, is not that developed, less resources online
+
+### React JS
+
+| Pros: | Cons: |
+| Reusable components | Lack of documentation |
+| Dynamic | Requires learning a new language (JavaScript) |
+|  | Web apps don't work without an Internet Connection |
+
+### SQLite
+
+| Pros: | Cons: |
+| Affordable | Lack of documentation |
+| Has all necessary functions | Requires learning a new language (JavaScript) |
+| Works without internet and well for small datasets like the quiz quesions |  |
+
+### MySQL
+
+| Pros: | Cons: |
+| --- |---|
+| Scalable | Expensive |
+| High performance | Requires server to run |
+|  | Needs internet to run |
+
 ## QuizController class:
 
 ### Types of Questions:
