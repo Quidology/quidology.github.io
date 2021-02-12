@@ -8,9 +8,9 @@ nav_order: 5
 
 ![Rough draft of the GUI](https://quidology.github.io/assets/img/rough_sketch_gui.jpg)
 
-## Options Explored
+## Options Explored:
 
-### Java with JavaFX:
+### Java with JavaFX
 
 | Pros: | Cons: |
 | --- |---|
@@ -18,7 +18,7 @@ Java Desktop applications works "out-of-the-box" on many platforms | Requires a 
 Scene Builder is convinient to build UI | Performance
 CSS/FXML can seperate layout from logic | Maturity, is not that developed, less resources online
 
-### React JS
+### ReactJS
 
 | Pros: | Cons: |
 | Reusable components | Lack of documentation |
@@ -29,7 +29,7 @@ CSS/FXML can seperate layout from logic | Maturity, is not that developed, less 
 
 | Pros: | Cons: |
 | Affordable | Lack of documentation |
-| Has all necessary functions | Requires learning a new language (JavaScript) |
+| Has all necessary functions | |
 | Works without internet and well for small datasets like the quiz quesions |  |
 
 ### MySQL
