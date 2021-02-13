@@ -4,6 +4,7 @@ title: Installation/Instructions
 nav_order: 2
 ---
 
+[Download zip](https://github.com/Quidology/Quidology-Desktop/archive/main.zip){: .btn .fs-5 .mb-4 .mb-md-0 } 
 Type in the following credentials
 
 Username | Password
