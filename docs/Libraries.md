@@ -6,7 +6,10 @@ nav_order: 8
 
 # Libraries Used
 
-## SQLite JDBC
+## JavaFX
+JavaFX is used to build the UI components in the application. 
+
+## SQLite JDBC 
 Used to access and create SQLite database files in Java. Import using a Maven dependancy and connects the program with the questions.db file and quidology_users.db file. Created by xerial.org under the Apache License version 2.0.
 
 [Github Repository](https://github.com/xerial/sqlite-jdbc)

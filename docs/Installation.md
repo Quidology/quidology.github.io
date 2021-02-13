@@ -6,14 +6,14 @@ nav_order: 2
 
 1. Type in the following credentials
 
-Username | test
+Username | Password
 |---|---|
-Password | Test123!
+test | Test123!
 
 2. Press the "Click to Start Quiz" button when you are ready for your 5 question FBLA Accounting I quiz.
 
 3. Use the Next and Back buttons to navigate through the quiz. There are 4 distinct possible quiz question types that may appear:
-    i. Matching Questions.
+    i. Matching Questions
     ii. Multiple Choice Questions
     iii. Short Answer Questions
     iv. True or False Questions
