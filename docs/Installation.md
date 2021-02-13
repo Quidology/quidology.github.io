@@ -6,7 +6,7 @@ nav_order: 2
 
 # Installation
 
-[Download zip](https://github.com/Quidology/Quidology-Desktop/archive/main.zip){: .btn .btn-purple} 
+[Download .zip](https://github.com/Quidology/Quidology-Desktop/archive/main.zip){: .btn .btn-purple} 
 
 Type in the following credentials
 
