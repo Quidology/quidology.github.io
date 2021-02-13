@@ -23,4 +23,12 @@ Press the "Print Results" button on the right hand side of the results window. D
 ![]()
 
 ## What types of Questions are there?
-See []()
+i. Matching Questions
+
+ii. Multiple Choice Questions
+
+iii. Short Answer Questions
+
+iv. True or False Questions
+
+See [structure](https://quidology.github.io/docs/Structure.html)
