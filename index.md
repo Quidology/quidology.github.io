@@ -14,7 +14,7 @@ Quidology generates a realistic virtual test-taking environment, automatic asses
 
 ![Quidology logo](https://quidology.github.io/assets/img/logo.png)
 
-[Installation](https://quidology.github.io/docs/Installation.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/quidology){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Installation](https://quidology.github.io/docs/Installation.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Quidology/Quidology-Desktop){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
