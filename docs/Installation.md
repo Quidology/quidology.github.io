@@ -12,7 +12,7 @@ nav_order: 2
 
 [Download source code](https://github.com/Quidology/Quidology-Desktop/archive/main.zip){: .btn } 
 
-Unzip the downloaded folder and follow the instructions for your operating system.
+Make sure you have Java installed. Unzip the downloaded folder and follow the instructions for your operating system.
 
 For Windows:
 Double-click the `run.bat` file.
