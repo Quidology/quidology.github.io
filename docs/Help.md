@@ -31,4 +31,4 @@ iii. Short Answer Questions
 
 iv. True or False Questions
 
-See [structure](https://quidology.github.io/docs/Structure.html)
+See [Structure](https://quidology.github.io/docs/Structure.html)
