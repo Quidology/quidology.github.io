@@ -8,6 +8,7 @@ nav_order: 10
 
 ## How to log in?
 To login you use the following login:
+
 Username | Password
 |---|---|
 test | Test123!
