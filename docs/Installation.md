@@ -7,10 +7,10 @@ nav_order: 2
 # Installation
 
 ## Download:
-[For Windows](https://github.com/Quidology/Quidology-Desktop/releases/download/v1.0-alpha/Quidology-Windows.zip){: .btn .btn-purple }
-[For Mac/Linux](https://github.com/Quidology/Quidology-Desktop/releases/download/v1.0-alpha/Quidology-Mac.zip){: .btn .btn-purple }
+[For Windows](https://github.com/sophiezhng/Quidology-Desktop/releases/download/v1.0-alpha/Quidology-Windows.zip){: .btn .btn-purple }
+[For Mac/Linux](https://github.com/sophiezhng/Quidology-Desktop/releases/download/v1.0-alpha/Quidology-Mac.zip){: .btn .btn-purple }
 
-[Download source code](https://github.com/Quidology/Quidology-Desktop/archive/main.zip){: .btn } 
+[Download source code](https://github.com/sophiezhng/Quidology-Desktop/archive/main.zip){: .btn } 
 
 Make sure you have Java installed. Unzip the downloaded folder and follow the instructions for your operating system.
 
